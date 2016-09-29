@@ -1,0 +1,29 @@
+body {
+	background-color: #000000;
+}
+h1 {
+	color: #ff9900;
+	font-family: Arial;
+	font-size: 44px;
+	text-shadow: -2px 2px #404040;
+
+}
+p {
+	color: #fff5e6;
+	font-family: Arial;
+	font-size:18px;
+
+}
+h4 {
+	color: #ffcc66;
+	font-family: "Arial Black";
+	font-size: 30px;
+}
+li{
+	color:#ffad33;
+	font-family: Arial;
+	font-size:20px;
+}
+head {
+	background-color: #ffffff
+}
